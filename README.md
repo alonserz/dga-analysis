@@ -1,5 +1,11 @@
 # DGA Analysis
 
+# Quick start
+```
+git clone git@github.com:alonserz/dga-analysis.git
+git lfs fetch --all
+```
+
 # Challenge
 Your goal is to solve binary classification problem and determine whether domain name is generated using DGA or not
 If domain name is generated using DGA save source ip, domain name and classification correctness to .csv.
